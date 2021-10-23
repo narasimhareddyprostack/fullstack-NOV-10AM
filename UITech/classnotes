@@ -1,0 +1,28 @@
+HTML (Tags, Attributes)
+-----
+Tags are Two Types 
+container and not container tags 
+===================================
+Document Tags 
+  --- <html><head><body> 
+      <title> <meta> <script> <style> <link>
+
+Document Strucure Tags 
+  -- div, section , article, header, footer 
+Text Formatting Tags
+  - h1, h6,
+  - p, span 
+Link 
+ <a></a>
+List  -- ul, ol, li 
+
+
+Image - <img / >
+
+Table - table, thead, tbody, tr td ,th 
+
+HTML 5 new Tags - audio, video, and sematic tags 
+
+Iframe 
+
+Form Tags - 
