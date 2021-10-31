@@ -1,0 +1,16 @@
+p,
+h3 {
+  background-color: red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h1 {
+  background-color: blue;
+}
+h2 {
+  background-color: yellow;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  size: 20px;
+}
+
+span {
+}
