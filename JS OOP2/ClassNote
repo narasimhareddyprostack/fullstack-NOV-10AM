@@ -1,0 +1,6 @@
+What is constructor?
+- special method  and 
+it will execute only once, automatically at the time of object creation.
+We can't invoke a constructor explictly
+
+Purpose of constructor is - to initilize Object values.
